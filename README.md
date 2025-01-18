@@ -54,3 +54,6 @@ git push origin --delete v1.0
 ●
 To delete local tags
 git tag -d v1.0
+
+
+![Image](https://github.com/user-attachments/assets/43204a22-512d-4f0f-a7d0-5d939e5c5911)
